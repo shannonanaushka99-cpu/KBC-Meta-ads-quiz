@@ -1,0 +1,6 @@
+{
+  "name": "Kaun Banega Meta Crorepati - Ad Bidding Challenge",
+  "description": "An exciting KBC-style classroom quiz game testing students on Meta's 4 Bidding Strategies: Highest Volume, Cost Per Result Goal, ROAS Goal, and Bid Cap with authentic lifelines, sound effects, and explanations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
